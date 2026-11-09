@@ -1,14 +1,15 @@
-# Computing & Resources
+# Computing
 
-Guides to research computing systems, software environments, and reusable
-technical resources. Only share cluster details and examples that are
-permitted for public release.
+Infrastructure and development tools that support reproducible scientific
+computing. Cluster-specific settings must follow official system guidance,
+and only approved details should be published.
 
 ```{toctree}
 :maxdepth: 1
 
+linux/index
+git/index
 hpc/index
 python/index
-templates/index
-troubleshooting/index
+job-schedulers/index
 ```

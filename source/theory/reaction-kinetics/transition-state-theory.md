@@ -18,6 +18,6 @@ leads to products. Recrossing and dynamical effects can make the actual rate
 differ from this estimate. The method and its assumptions should be considered
 when interpreting calculated barriers or rates.
 
-For a complete calculation procedure, see the relevant
+For a calculation procedure, see the relevant
 [reaction-pathway method](../../methods/reaction-pathways/index) and
 [simulation workflow](../../workflows/index).

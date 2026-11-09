@@ -1,21 +1,29 @@
-# Simulation Workflows
+# Reusable Simulation Workflows
 
-Reusable end-to-end procedures that connect inputs, calculations,
-validation, analysis, and outputs.
+This section contains procedures that can be reused across research projects.
+Project-specific applications belong under
+[Polymerization Project](../polymerization/index), which should link to these
+shared procedures instead of duplicating them.
 
-Each workflow should document the software and versions used, prerequisites,
-validation checks, and known limitations.
+Every workflow should specify:
 
-- DFT workflows
-- Molecular-dynamics workflows
-- Multiscale workflows
-- Automation
+- prerequisites and supported model scope;
+- inputs, units, and expected outputs;
+- software and tested versions;
+- ordered execution steps and resource requirements;
+- validation and convergence criteria;
+- known limitations, failure modes, and provenance to record.
 
 ```{toctree}
 :maxdepth: 1
 
+ci-neb/index
+molecular-dynamics/index
 dft/index
 md/index
 multiscale/index
 automation/index
 ```
+
+The procedures here are documentation, not an execution service. Keep
+automation code and credentials out of the public documentation repository.

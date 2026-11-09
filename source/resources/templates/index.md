@@ -35,3 +35,7 @@ Official documentation and relevant publications.
 - System or platform:
 - Last verified:
 ```
+
+Keep theory, method choice, software commands, complete procedures, and
+project-specific interpretation in their respective sections. Link related
+pages rather than copying the same explanation into multiple documents.
