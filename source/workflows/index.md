@@ -1,6 +1,10 @@
-# Workflows
+# Simulation Workflows
 
-Step-by-step workflows that connect research methods and software.
+Reusable end-to-end procedures that connect inputs, calculations,
+validation, analysis, and outputs.
+
+Each workflow should document the software and versions used, prerequisites,
+validation checks, and known limitations.
 
 - DFT workflows
 - Molecular-dynamics workflows

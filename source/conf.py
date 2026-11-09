@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'MY Research Documentation'
+project = 'MY Simulation Guide'
 copyright = '2026, Meng YIN'
 author = 'Meng YIN'
 release = '20261106_v0.0'

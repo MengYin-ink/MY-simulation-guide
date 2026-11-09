@@ -1,18 +1,21 @@
 MY Simulation Guide
 ===============================
 
-Welcome to MY (Meng Yin) Simulation Guide.
+**A Practical Knowledge Base for Computational Materials Science**
 
-This site provides public technical documentation for electronic/atomic level simulations,
-including theory, methods, software, workflows, and computing resources.
+Welcome to MY (Meng Yin) Simulation Guide, a public technical knowledge base
+for computational materials science. The guide connects theoretical
+foundations, computational methods, software, reproducible workflows, research
+applications, and computing resources.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   Theory <theory/index>
-   Methods <methods/index>
-   Software <software/index>
-   Workflows <workflows/index>
-   Computing <computing/index>
-   Resources <resources/index>
+   Getting Started <getting-started/index>
+   Fundamentals <fundamentals/index>
+   Computational Methods <methods/index>
+   Software Guides <software/index>
+   Simulation Workflows <workflows/index>
+   Research Applications <applications/index>
+   Computing & Resources <computing/index>

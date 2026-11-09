@@ -1,6 +1,9 @@
-# Software
+# Software Guides
 
-Installation, configuration, and usage notes for research software.
+Installation, configuration, input files, execution, and troubleshooting for
+research software. Method explanations are maintained in
+[Computational Methods](../methods/index); complete procedures are in
+[Simulation Workflows](../workflows/index).
 
 - VASP
 - ORCA

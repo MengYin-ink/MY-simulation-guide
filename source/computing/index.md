@@ -1,15 +1,14 @@
-# Computing
+# Computing & Resources
 
-Guides for research computing systems and development environments.
-
-- [AOBA](aoba/index)
-- [Linux](linux/index)
-- [Environments](environments/index)
+Guides to research computing systems, software environments, and reusable
+technical resources. Only share cluster details and examples that are
+permitted for public release.
 
 ```{toctree}
 :maxdepth: 1
 
-aoba/index
-linux/index
-environments/index
+hpc/index
+python/index
+templates/index
+troubleshooting/index
 ```
